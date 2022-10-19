@@ -1,4 +1,4 @@
-import '../css/card.css'
+import '../../css/card.css'
 
 const Card = (props) => {
     const accessChildClass = 'card ' + props.className
